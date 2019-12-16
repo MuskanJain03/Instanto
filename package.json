@@ -1,0 +1,36 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "*",
+    "exp": "*",
+    "expo": "*",
+    "firebase": "*",
+    "link": "^0.1.5",
+    "react": "*",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-camera-roll-picker": "^1.2.3",
+    "react-native-checkbox": "*",
+    "react-native-easy-grid": "*",
+    "react-native-fa-icons": "*",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-material-dropdown": "*",
+    "react-native-modal-overlay": "*",
+    "react-native-otp-inputs": "^2.0.0",
+    "react-native-router-flux": "*",
+    "react-native-slider": "*",
+    "react-native-timer-countdown": "^4.1.0",
+    "react-navigation": "*",
+    "tcomb-form-native": "^0.6.20"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "*",
+    "schedule": "^0.4.0"
+  },
+  "private": true
+}
